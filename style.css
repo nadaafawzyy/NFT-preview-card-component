@@ -48,6 +48,9 @@ main{
     padding: 20px;
     grid-template-rows: 2fr auto auto;
     box-shadow: 22px 22px 50px 1px #0000008a;
+        align-content: center;
+    justify-content: center;
+    align-items: center;
 }
 .image-container{
     display: grid;
@@ -155,4 +158,9 @@ footer{
 footer a{
     text-decoration: none;
     color: var(--Cyan400);
+}
+@media (max-width:787px) {
+   main{
+   width:100%   
+}
 }
