@@ -16,25 +16,15 @@ This repository contains a featured NFT card including:
 
 ## 🚀 Live Demo
 
-Check out the live preview here:  
+Check out the live preview here:
 👉 https://nadaafawzyy.github.io/NFT-preview-card-component/
 
 ## 🖼 Screenshot
+  ![Screenshot_1-4-2026_211427_nadaafawzyy github io](https://github.com/user-attachments/assets/4c7e45d6-ffab-4fde-af77-c617a4e05902)
 
-![NFT Preview Card Screenshot](https://raw.githubusercontent.com/nadaafawzyy/NFT-preview-card-component/main/design/desktop-preview.jpg)
-
-*(Replace this URL with your actual screenshot file path in the repo if different)*
 
 ## 🧠 Built With
 
 - HTML5  
 - CSS3  
 - Responsive design (Flexbox/Grid)
-
-## 📂 Installation & Usage
-
-To preview locally:
-
-```bash
-git clone https://github.com/nadaafawzyy/NFT-preview-card-component.git
-cd NFT-preview-card-component
